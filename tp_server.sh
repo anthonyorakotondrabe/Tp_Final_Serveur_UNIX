@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# TP — Architecture d'un Serveur UNIX Complet 
+# TP — Serveur UNIX 
 # Script de compilation, construction et test du projet
 
 
